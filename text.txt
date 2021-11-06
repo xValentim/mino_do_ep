@@ -1,0 +1,7 @@
+Insper Dominó
+
+=> Design de Software
+
+Bem-vindo(a) ao jogo de Dominó! O objetivo desse jogo é ficar sem peças na sua mão antes dos outros jogadores.
+
+Vamos começar!!!
